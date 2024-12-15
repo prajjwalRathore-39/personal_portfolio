@@ -9,7 +9,7 @@ const Header = () => {
       id: 1,
     },
     {
-      title: "Abput",
+      title: "About",
       link: "/about",
       id: 2,
     },

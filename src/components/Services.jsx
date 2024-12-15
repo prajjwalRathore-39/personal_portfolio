@@ -3,7 +3,7 @@ const Services = () => {
     <>
       <div className="main-container py-16">
         <h1 className="text-4xl font-bold underline text-center">
-          My Services
+          What I can do.
         </h1>
         <div className="services-container space-x-5 px-6 flex mt-12">
           <div className=" cursor-pointer  hover:bg-gray-100 bg-slate-100 p-5 text-center shadow-lg rounded-xl service1 spacw-y-4">

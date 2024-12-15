@@ -5,12 +5,10 @@ const About = () => {
   const [data, setData] = useState({
     image: bannerImage,
     title: `Java Backend Developer`,
-    desc1: ` Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed
-                dicta modi suscipit culpa libero `,
-    desc2: `Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Commodi deserunt odit nesciunt consectetur voluptatum dolores
-                quis quae fugiat, iusto error voluptates. Officiis rem
-                distinctio consequatur quo rerum! Quibusdam, minus esse.`,
+    desc1: ` As a Java Backend Developer, I specialize in creating scalable, high-performance backend systems using Core Java, Spring Framework, and Hibernate. I focus on building efficient RESTful APIs and microservices while leveraging cloud technologies like AWS and Docker. With a commitment to clean code and reliable solutions, I aim to develop maintainable systems that help businesses achieve their goals.
+
+`,
+    desc2: ``,
     actionButton: {
       title: "Read More..",
       link: "/remore",
