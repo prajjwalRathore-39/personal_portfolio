@@ -1,4 +1,4 @@
-import bannerImage from "../assets/bi1.png";
+import bannerImage from "../assets/prajjwal.png";
 import bannerBackground from "../assets/banner_wallpaper.svg";
 import Typed from "typed.js";
 import { useEffect, useRef } from "react";
@@ -45,10 +45,18 @@ const Banner = () => {
             I am a <span className="font-bold underline" ref={el}></span>
           </h2>
           <p className="mt-1">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto
-            reiciendis officiis quia dolor similique dicta? Modi deserunt ipsum
-            veritatis, a error culpa quia, quibusdam vero fugit placeat,
-            molestias ad consectetur!
+            Hi, I’m Prajjwal Rathore! I am a passionate{" "}
+            <strong>
+              <em>Software Engineer,</em>
+            </strong>{" "}
+            with experience in developing efficient and scalable solutions using
+            cutting-edge technologies. I specialize in{" "}
+            <strong>backend development</strong>,
+            <strong> cloud technologies</strong>, and <strong>Databases</strong>
+            , with a strong focus on delivering impactful solutions. Driven by
+            curiosity, I thrive on learning and pushing boundaries to create
+            innovative applications that solve real-world challenges. Let's
+            build something amazing together!
           </p>
           <div className="icons-container space-x-5">
             <a className="px-1 py-4 w-16 h-16" href="">

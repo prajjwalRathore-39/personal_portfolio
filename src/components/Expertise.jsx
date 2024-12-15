@@ -22,13 +22,16 @@ const Expertise = () => {
               {" "}
               <h1 className="text-4xl font-semibold">
                 {" "}
-                I love these technologies
+                I love these{" "}
+                <em>
+                  <strong>technologies</strong>
+                </em>
               </h1>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Eligendi culpa deserunt doloremque velit! Aliquid error
-                doloremque exercitationem cum sit quibusdam magnam impedit eos
-                magni corrupti dolorem, laborum nemo corporis necessitatibus?
+                Technology is the backbone of innovation, enabling developers
+                like me to build robust, scalable, and cutting-edge solutions.
+                The tools and frameworks I’ve explored form the pillars of my
+                expertise and passion in the software development landscape.
               </p>
               <button className="text-2xl px-4 py-2 bg-orange-500 rounded-full shadow-lg">
                 Hire me
