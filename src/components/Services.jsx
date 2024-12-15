@@ -2,9 +2,7 @@ const Services = () => {
   return (
     <>
       <div className="main-container py-16">
-        <h1 className="text-4xl font-bold underline text-center">
-          What I can do.
-        </h1>
+        <h1 className="text-4xl font-bold text-center">What I Offer</h1>
         <div className="services-container space-x-5 px-6 flex mt-12">
           <div className=" cursor-pointer  hover:bg-gray-100 bg-slate-100 p-5 text-center shadow-lg rounded-xl service1 spacw-y-4">
             <i class="  text-2xl fa-solid fa-code"></i>
@@ -13,7 +11,7 @@ const Services = () => {
               Web Development Crafting seamless, user-friendly websites with
               dynamic functionality and responsive designs. Expertise in
               <em>
-                <strong>front-end</strong>
+                <strong> front-end</strong>
               </em>
               ,{" "}
               <em>

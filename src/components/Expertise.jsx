@@ -4,9 +4,7 @@ const Expertise = () => {
   return (
     <>
       <div className="mt-2">
-        <h1 className=" mb-16 text-4xl font-bold underline text-center">
-          My Expertise
-        </h1>
+        <h1 className=" mb-16 text-4xl font-bold text-center">My Expertise</h1>
 
         {/* box-section */}
         <div

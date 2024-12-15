@@ -30,8 +30,8 @@ const Header = () => {
     },
   ]);
   const [actionButton, setActionButton] = useState({
-    title: "Hire Me",
-    link: "/hire-me",
+    title: "Download Résumé",
+    link: "src/assets/PrajjwalRathoreResume!.pdf",
   });
 
   return (
@@ -69,6 +69,7 @@ const Header = () => {
           <a
             href={actionButton.link}
             className="px-4 py-2 bg-orange-500 shadow rounded-full text-1xl"
+            download="Resume.pdf"
           >
             {actionButton.title}
           </a>

@@ -17,9 +17,7 @@ const About = () => {
   return (
     <>
       <div className="main-container bg-gray-100 py-16">
-        <h1 className=" text-center pb-16 text-4xl underline font-bold">
-          About Me
-        </h1>
+        <h1 className=" text-center pb-16 text-4xl font-bold">About Me</h1>
 
         <div className="flex items-center">
           {/* image-container */}

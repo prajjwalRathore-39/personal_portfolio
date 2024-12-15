@@ -59,16 +59,32 @@ const Banner = () => {
             build something amazing together!
           </p>
           <div className="icons-container space-x-5">
-            <a className="px-1 py-4 w-16 h-16" href="">
-              <i class="fa-brands text-3xl fa-facebook"></i>
+            <a
+              className="px-1 py-4 w-16 h-16"
+              href="https://github.com/prajjwalRathore-39"
+              target="_blank"
+            >
+              <i class="fa-brands text-3xl fa-github"></i>
             </a>
-            <a className="px-1 py-4 w-16 h-16" href="">
+            <a
+              className="px-1 py-4 w-16 h-16"
+              href="https://www.instagram.com/prajjwal_rathore__/"
+              target="_blank"
+            >
               <i class="fa-brands text-3xl fa-instagram"></i>
             </a>
-            <a className="px-1 py-4 w-16 h-16" href="">
-              <i class="fa-brands text-3xl fa-youtube"></i>
+            <a
+              className="px-1 py-4 w-16 h-16"
+              href="https://medium.com/@prajjwalrathore39"
+              target="_blank"
+            >
+              <i class="fa-brands text-3xl fa-medium"></i>
             </a>
-            <a className="px-1 py-4 w-16 h-16" href="">
+            <a
+              className="px-1 py-4 w-16 h-16"
+              href="https://www.linkedin.com/in/prajjwal-singh-rathore-63b3101b7/?originalSubdomain=in"
+              target="_blank"
+            >
               <i class="fa-brands text-3xl fa-linkedin-in"></i>
             </a>
           </div>
@@ -77,7 +93,7 @@ const Banner = () => {
             className="px-3 mt-3 py-2 bg-orange-500 rounded-full shadow-lg"
             href="/contact"
           >
-            Contact Me
+            Let's Connect!
           </a>
         </div>
       </div>
